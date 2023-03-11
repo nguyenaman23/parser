@@ -1,0 +1,36 @@
+[
+{
+'type':'rich',
+'url':'https://www.roblox.com/games/7449423635',
+'title':'Blox Fruit',
+'color':3447003,
+'timestamp':'2023-03-11T09:37:02+00:00',
+'fields':[
+{
+'name':'Server Full Moon',
+'value':'```lua\ngame:GetService("TeleportService"):TeleportToPlaceInstance(7449423635,
+"d4a7ce79-5548-4742-965e-8a52ce1726c5", game.Players.LocalPlayer)```', 'inline':True
+},
+{
+'name':'Time Remaining',
+'value':'```9 Minutes```',
+'inline':True
+}
+],
+'author':{
+'name':'W-azure Notifier.Exe',
+'url':'https://discord.gg/W-azure',
+'icon_url':'https://i.vgy.me/jrEFaQ.jpg',
+'proxy_icon_url':'https://images-ext-2.discordapp.net/external/Iy19RUkvGaRuOiXTGJUGe2WanbgPf-FHqP_TnxSpGoQ/https/i.vgy.me/jrEFaQ.jpg'
+},
+'thumbnail':{
+'url':'https://i.vgy.me/FrdDph.png',
+'proxy_url':'https://images-ext-1.discordapp.net/external/sSQhojCENcbGJdNQcxRZB3V7vSkrYvbzJYvFUpAyy-s/https/i.vgy.me/FrdDph.png',
+'width':800,
+'height':200
+},
+'footer':{
+'text':'https://discord.gg/W-azure'
+}
+}
+]
